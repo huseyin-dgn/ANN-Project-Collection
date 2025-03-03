@@ -49,7 +49,7 @@ Ensure you have the following installed:
     ▶️ Running the Models
 🔹 Clone the repository:
 
-git clone https://github.com/huseyindgn/ANN Project Collection.git
+git clone https://github.com/huseyindgn/ANN-Project-Collection.git
 
 cd ANN Project Collection
 
